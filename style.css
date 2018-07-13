@@ -1,0 +1,166 @@
+body{
+	background:#FFFFFF;
+	margin:0;
+	padding:0;
+	height:50px;
+	background:linear-gradient(#fff, #d9ddeb);
+width: 100%;
+}
+
+}
+.container{
+	width: 100%;
+margin: 0 auto;
+
+}
+.header{
+	
+	height:82px;
+	background:#415e95;
+	margin:0;
+	padding-top:20px;
+	width:100%;
+}
+.header label{
+	color:#fff;
+}
+.logo{
+	width:50%;
+	float:left;
+}
+.logo img{
+	padding-top: 15px;
+	padding-left: 40px;
+	padding-top: 10px;
+	
+}
+.facebook{
+	width:50%;
+	float:left;
+}
+.Email{
+	float:left;
+	margin-right:20px;
+	margin-left:100px;
+	padding-top:14px;
+	padding-bottom:20px;
+	}
+.Email label{
+	
+	float:left;
+}
+.password{
+		float:left;
+		margin-right:20px;
+		padding-top:14px;
+		padding-bottom:10px;
+}
+.password  a{
+	color:#fff;
+}
+.password label{
+	padding-bottom:10px;
+}
+.loge-in{
+	float:left;
+	padding-bottom:10px;
+	padding-top:30px;
+}
+
+}
+.facebook-contant{
+	width:50%;
+	float:left;
+	
+	
+}
+.middle_content{
+	width:1170px;
+	margin:0 auto;
+	
+}
+.create-account{
+float: left;
+margin-top: -351px;
+color: #223342;
+width: 585px;
+margin-left: 665px;
+	
+}
+.facebook-container{
+	color:#103D67;
+	
+	
+	
+}
+.facebook-container img{
+	float:left;
+	width:585px;
+}
+.create-account h1{
+    
+	font-size:30px;
+}
+.create-account h1 p{
+	font-size:10px;
+}
+.account input[type='text']{
+	margin-left:0px;
+	margin-bottom:15px;
+	border-radius:5px;
+	padding:10px;
+	font-size:16px;
+	border:1px solis #bdc7d8;
+}
+.account input[type='password']{
+	margin-left:0px;
+	margin-bottom:15px;
+	border-radius:5px;
+	padding:10px;
+	font-size:16px;
+}
+.account.phone.account.password{
+	width:84%!important;
+}
+.account label{
+	font-weigth:bold;
+	font-size:16px;
+	margin-bottom:15px;
+}
+.account a{
+		text-decoration:none;
+		margin-bottom:20px;
+}
+.account input[type="radio"]{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.account .by-clicking{
+	color:#77777a;
+}
+.account input[type="submit"]{
+	margin-top:15px;
+	margin-bottom:15px;
+	border-radius:5px;
+	padding:15px 22px;
+	font-size:16px;
+	color:#fff;
+	font-size:25px;
+	background:#65a953;
+	border:1px solid#3b6e22;
+border-radius:5px;}
+.footer{
+width: 100%;
+margin-top: 329px;
+}
+.footer td{
+	padding:5px;
+	
+	text-decoration:none;
+
+}
+.footer table tr td a{
+	text-decoration:none;
+	color:#000;
+	
+}
